@@ -3,7 +3,7 @@ var main =  function() {
     $(".meny").animate({
       left: "0px"
   }, 200);
-  $("body").animate({
+  $(".main").animate({
     left: "300px"
   }, 200);
   });
@@ -11,7 +11,7 @@ var main =  function() {
     $(".meny").animate({
   left: "-300px"
     }, 200);
-    $("body").animate({
+    $(".main").animate({
       left: "0px"
     }, 200);
   });
