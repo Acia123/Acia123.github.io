@@ -12,7 +12,7 @@ var main =  function() {
   left: "-300px"
     }, 200);
     $("body").animate({
-      left: "-300px"
+      left: "0px"
     }, 200);
   });
 };
