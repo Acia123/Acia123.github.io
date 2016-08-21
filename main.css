@@ -133,3 +133,6 @@ footer{
   width: 32px;
   height: 32px;
 }
+.liclass{
+  list-style: none;
+}
