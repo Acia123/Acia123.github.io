@@ -127,7 +127,8 @@ footer{
 }
 .social-list{
   display: inline-block;
-  
+  width: 151.13px;
+  height: 35px;
 }
 .li-bild{
   width: 32px;
