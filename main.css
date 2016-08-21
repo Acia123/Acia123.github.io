@@ -127,5 +127,6 @@ footer{
 }
 .social-list{
   display: inline-block;
+  margin: 0;
 }
 
