@@ -113,4 +113,9 @@ footer{
   height: 85.5px;
   background: #252525;
 }
+.footer-mitt{
+  margin: 0 auto;
+  height: 100%;
+  width: 650px;
+}
 
