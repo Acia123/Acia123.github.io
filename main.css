@@ -118,11 +118,11 @@ footer{
   height: 100%;
   width: 650px;
   text-align: center;
-  padding: 40px 0px 0px 0px;
+  
 }
 .footer-text{
   height: 75px;
-
+  padding: 40px 0px 0px 0px;
   display: block;
   margin: 0 auto;
 }
