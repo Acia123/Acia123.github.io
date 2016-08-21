@@ -129,4 +129,6 @@ footer{
   display: inline-block;
   
 }
-
+li{
+ text-decoration: none;
+}
