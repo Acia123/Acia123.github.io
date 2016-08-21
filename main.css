@@ -117,9 +117,9 @@ footer{
   margin: 0 auto;
   height: 100%;
   width: 650px;
+  text-align: center;
 }
 .footer-text{
-  text-align: center;
   height: 75px;
 
   display: block;
