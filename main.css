@@ -111,7 +111,7 @@ footer{
 .footer{
   width: 100%;
   height: 171px;
-  background: #252525 url("http://s3.amazonaws.com/codecademy-content/courses/ltp2/img/uber/close.png") ;
+  background: #252525 url("https://s3.amazonaws.com/codecademy-content/courses/ltp2/img/uber/black-thread.png") repeat;
 }
 .footer-mitt{
   margin: 0 auto;
