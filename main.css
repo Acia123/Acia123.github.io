@@ -105,9 +105,12 @@ header {
   padding-top: 25px;
   
 }
+footer{
+  margin: 0;
+}
 .footer{
   width: 100%;
   height: 171px;
-  background: #252525 url("../images/dust.png") repeat;
+  background: #252525;
 }
 
