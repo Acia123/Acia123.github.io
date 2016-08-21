@@ -110,7 +110,7 @@ footer{
 }
 .footer{
   width: 100%;
-  height: 85.5px;
+  height: 171px;
   background: #252525;
 }
 .footer-mitt{
@@ -120,6 +120,7 @@ footer{
 }
 .footer-text{
   text-align: center;
-  
+  height: 75px;
+  width: 650px;
 }
 
