@@ -111,7 +111,7 @@ footer{
 .footer{
   width: 100%;
   height: 171px;
-  background: #252525 url("http://1bsvml38tw5620snbn2p4xtx.wpengine.netdna-cdn.com/wp-content/themes/agra15/build/images/dust.png") repeat;
+  background: #252525 url("http://s3.amazonaws.com/codecademy-content/courses/ltp2/img/uber/close.png") repeat;
 }
 .footer-mitt{
   margin: 0 auto;
