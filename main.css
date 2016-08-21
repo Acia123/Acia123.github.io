@@ -135,7 +135,7 @@ footer{
   width: 32px;
   height: 32px;
 }
-ul li{
+.liclass{
   display: inline-block;
   width: 45px;
   height: 45px;
