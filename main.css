@@ -123,6 +123,7 @@ footer{
   height: 75px;
   width: 750px;
   display: block;
+  margin: 0 auto;
 }
 .social-list{
   display: inline-block;
@@ -137,4 +138,7 @@ footer{
   list-style: none;
   width: 32px;
   height: 32px;
+}
+ul li{
+  display: inline;
 }
