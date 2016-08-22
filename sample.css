@@ -79,3 +79,14 @@ header {
   text-align: center;
   box-shadow: 4px 4px 4px #d6dce0;
 }
+#rubrik-div{
+  width: 60%
+  height 20%;
+  margin: 0 auto;
+}
+#rubrik{
+  width: auto;
+  height: auto;
+  text-align: center;
+  box-shadow:4px 4px 4px #d6dce0;
+}
