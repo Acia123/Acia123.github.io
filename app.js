@@ -20,10 +20,10 @@ $(document).ready(main);
 
 var hover = function(){
   $(".nyhet").mouseenter(function(){
-    $("current").css("text-decoration", "underline");
+    $("current, p").css("text-decoration", "underline");
     });
     $(".nyhet").mouseleave(function(){
-      $("current").css("text-decoration", "none")
+      $("current, p").css("text-decoration", "none")
     });
 };
 
