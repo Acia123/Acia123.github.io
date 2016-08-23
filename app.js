@@ -17,3 +17,14 @@ var main =  function() {
   });
 };
 $(document).ready(main);
+
+var hover = function(){
+  $(".bild").mouseenter(function(){
+    $(".bild").css("background-color", "lightgray");
+    });
+    $(".bild").mouseleave(function(){
+      $(".bild").css("background-color", "none")
+    });
+});
+
+$(document).ready(hover);
