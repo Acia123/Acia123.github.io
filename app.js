@@ -19,11 +19,11 @@ var main =  function() {
 $(document).ready(main);
 
 var hover = function(){
-  $(".nyheten").mouseenter(function(){
-    $(".nyheten").css("background-color", "lightgray");
+  $(".nyhet").mouseenter(function(){
+    $("p").css("text-decoration", "underline");
     });
-    $(".nyheten").mouseleave(function(){
-      $(".nyheten").css("background-color", "none")
+    $(".nyhet").mouseleave(function(){
+      $("p").css("text-decoration", "none")
     });
 };
 
