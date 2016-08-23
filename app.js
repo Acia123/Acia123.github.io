@@ -25,7 +25,6 @@ var hover = function(){
     $(".bild").mouseleave(function(){
       $(".bild").css("background-color", "none")
     });
-});
 };
 
 $(document).ready(hover);
