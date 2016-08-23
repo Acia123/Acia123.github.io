@@ -93,9 +93,9 @@ header {
 }
 #video-div{
   margin: 0 auto;
-  width: 757px;
+  width: 560px;
   height box-shadow: 4px 4px 4px #d6dce0;
-  height: 757px;
+  height: 330px;
 }
 #video{
   margin: 0 auto;
@@ -106,5 +106,4 @@ header {
 #videon{
   height: 323px;
   width: 555px;
-  margin 0 auto;
 }
