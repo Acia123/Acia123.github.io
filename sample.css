@@ -107,3 +107,7 @@ header {
 #article{
   box-shadow:4px 4px 0px #d6dce0;
 }
+h1{
+  font-weight: bolder;
+  line-height: 1.2;
+}
