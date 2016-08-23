@@ -26,5 +26,6 @@ var hover = function(){
       $(".bild").css("background-color", "none")
     });
 });
+};
 
 $(document).ready(hover);
