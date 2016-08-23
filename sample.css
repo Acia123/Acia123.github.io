@@ -78,7 +78,6 @@ header {
   width: auto;
   height: auto;
   text-align: center;
-  box-shadow: 4px 4px 4px #d6dce0;
 }
 #rubrik-div{
   width: 757px;
@@ -89,12 +88,10 @@ header {
   width: auto;
   height: auto;
   text-align: center;
-  box-shadow:4px 4px 4px #d6dce0;
 }
 #video-div{
   margin: 0 auto;
   width: 560px;
-  height box-shadow: 4px 4px 4px #d6dce0;
   height: 330px;
 }
 #video{
@@ -106,4 +103,7 @@ header {
 #videon{
   height: 313px;
   width: 510px;
+}
+#article{
+  box-shadow:4px 4px 0px #d6dce0;
 }
