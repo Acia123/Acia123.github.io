@@ -106,6 +106,7 @@ header {
 }
 #article{
   box-shadow:4px 4px 0px #d6dce0;
+  background: #FFF;
 }
 h2{
   font-weight: bolder;
