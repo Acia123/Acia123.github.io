@@ -91,3 +91,15 @@ header {
   text-align: center;
   box-shadow:4px 4px 4px #d6dce0;
 }
+#video-div{
+  margin: auto 0px;
+  width: 757px;
+  height box-shadow: 4px 4px 4px #d6dce0;
+  height: 757px;
+}
+#video{
+  margin: auto 0px;
+  height: 100%;
+  width: 100%;
+  
+}
