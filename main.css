@@ -1,3 +1,23 @@
+@media screen and (max-width:1902px){
+  .header{
+    width: 100%;
+  }
+  .main{
+    width: 100%;
+  }
+  footer{
+    width: 100%;
+  }
+  .nyhet{
+    width: 33.33%;
+  }
+  
+  
+}
+  
+  
+  
+  
 body {
   left: 0;
   margin: 0;
