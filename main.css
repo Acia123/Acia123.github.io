@@ -31,7 +31,14 @@
   }
   
 }
-  
+  @media screen and (max-width:640px){
+    .nyhet{
+      width: 100%;
+    }
+    .nyheten{
+      width: 100%;
+    }
+  }
   
 body {
   left: 0;
