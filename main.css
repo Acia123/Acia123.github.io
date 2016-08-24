@@ -81,7 +81,7 @@ header {
   width: 383px;
   height: 305px;
   display: inline-block;
-  
+  padding-left: 20px;
 }
 
 .nyheten {
