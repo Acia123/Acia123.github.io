@@ -1,6 +1,6 @@
 @media screen and (max-width:1902px){
-  *{
-    width: 100%;
+  span{
+    display: none;
   }
   .header{
     width: 100%;
