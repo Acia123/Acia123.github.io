@@ -34,19 +34,8 @@
   #bort{
     display: none;
   }
-  body{
-    width: 100%;
-  }
 }
-  @media screen and (max-width:640px){
-    .nyhet{
-      width: 100%
-      display: block;
-    }
-    .nyheten{
-      width: 100%;
-    }
-  }
+  
   
 body {
   left: 0;
