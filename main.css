@@ -11,21 +11,16 @@
   .nyhet{
     width: 33.33%;
   }
-  img{
+  .bild{
     width:100%;
   }
   body{
     width:100%;
   }
   
+  
 }
   
-  @media screen and (max-width:640px){
-    .nyhet{
-      width: 100%;
-    }
-    
-  }
   
   
 body {
