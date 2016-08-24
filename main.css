@@ -23,6 +23,7 @@
   }
   .nyheten{
     width: 100%;
+    display: block;
   }
   #mitte-sida{
     width:100%;
