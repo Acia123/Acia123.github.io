@@ -139,4 +139,5 @@ p{
 .nyhet{
   width: 375px;
   height: 305px;
+  display: inline-block;
 }
