@@ -30,7 +30,9 @@
   .sida{
     width:50%;
   }
-  
+  #bort{
+    display: none;
+  }
 }
   @media screen and (max-width:640px){
     .nyhet{
