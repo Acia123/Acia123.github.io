@@ -20,6 +20,12 @@
   .nyheten{
     width: 100%;
   }
+  #mitte-sida{
+    width:100%;
+  }
+  .sida{
+    width:100%;
+  }
   
 }
   @media screen and (max-width:640x){
