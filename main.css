@@ -37,6 +37,9 @@
   }
 }
   @media screen and (max-width:640px){
+    .sida{
+      width: 100%;
+    }
     span{
     display: none;
   }
@@ -67,9 +70,7 @@
   #mitte-sida{
     width:100%;
   }
-  .sida{
-    width: 100%;
-  }
+  
   }
   
 body {
