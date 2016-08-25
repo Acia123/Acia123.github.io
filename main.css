@@ -14,6 +14,7 @@
   .nyhet{
     width: 100%;
     display:block;
+    padding-left: 0px;
   }
   .bild{
     width:100%;
@@ -28,7 +29,7 @@
     width:100%;
   }
   .sida{
-    width:75%;
+    width:100%;
     margin: 0 auto;
   }
   #bort{
@@ -50,8 +51,8 @@
   }
   .nyhet{
     width: 100%;
-    display:inline-block;
-    padding: 0;
+    display: block;
+    padding-left: 0px;
   }
   .bild{
     width:100%;
@@ -61,6 +62,7 @@
   }
   .nyheten{
     width: 100%;
+
   }
   #mitte-sida{
     width:100%;
