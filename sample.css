@@ -154,7 +154,9 @@ a:link{
   color: black
 }
 
-
+.nyhet a{
+  text-decoration: none;
+}
 
 
 
