@@ -35,7 +35,7 @@
     
   }
 }
-  @media screen and (max-width:1902px){
+  @media screen and (max-width:640px){
      span{
     display: none;
   }
