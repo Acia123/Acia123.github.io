@@ -13,9 +13,7 @@
   }
   .nyhet{
     width: 100%;
-    display:block;
-    padding-left: none;
-    margin: 0px;
+    display: inline-block;
   }
   .bild{
     width:100%;
@@ -30,49 +28,13 @@
     width:100%;
   }
   .sida{
-    width:100%;
-    margin: 0 auto;
+    width:75%;
   }
   #bort{
     
   }
 }
-  @media screen and (max-width:640px){
-     span{
-    display: none;
-  }
-  .header{
-    width: 100%;
-  }
-  .main{
-    width: 100%;
-  }
-  footer{
-    width: 100%;
-  }
-  .nyhet{
-    width: 100%;
-    display: block;
-    padding-left: none;
-  }
-  .bild{
-    width:100%;
-  }
-  body{
-    width:100%;
-  }
-  .nyheten{
-    width: 100%;
-
-  }
-  #mitte-sida{
-    width:100%;
-  }
-  .sida{
-    width:100%;
-    margin: 0 auto;
-  }
-  }
+  
   
 body {
   left: 0;
@@ -107,18 +69,18 @@ header {
 }
 
 .sida {
-  width: 100%;
+  width: 1250px;
   height: 100%;
   margin: auto;
   padding: 40px 0px 0px 0px;
+  
 }
 
 .nyhet {
   width: 383px;
   height: 305px;
   display: inline-block;
-      margin: 0px 0px 0px 100px;
-  
+  padding-left: 20px;
 }
 
 .nyheten {
