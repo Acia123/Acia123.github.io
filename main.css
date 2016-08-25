@@ -12,7 +12,7 @@
     width: 100%;
   }
   .nyhet{
-    width: 210px;
+    width: 100%;
     display: block;
   }
   .bild{
@@ -22,7 +22,7 @@
     width:100%;
   }
   .nyheten{
-    width: 250px;
+    width: 300px;
     display: block;
   }
   #mitte-sida{
