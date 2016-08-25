@@ -1,5 +1,5 @@
-@media screen and (max-width:1902px){
-  span{
+@media screen and (min-width:1px) and (max-width:1365px) {
+    span{
     display: none;
   }
   .header{
@@ -36,42 +36,6 @@
     
   }
 }
-  @media screen and (max-width:640px){
-    .sida{
-      width: 100%;
-    }
-    span{
-    display: none;
-  }
-  .header{
-    width: 100%;
-    
-  }
-  .main{
-    width: 100%;
-  }
-  footer{
-    width: 100%;
-  }
-  .nyhet{
-    width: 100%;
-    display: block;
-  }
-  .bild{
-    width:100%;
-  }
-  body{
-    width:100%;
-  }
-  .nyheten{
-    width: 90%;
-    display: block;
-  }
-  #mitte-sida{
-    width:100%;
-  }
-  
-  }
   
 body {
   left: 0;
