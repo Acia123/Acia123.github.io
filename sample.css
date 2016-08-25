@@ -140,4 +140,5 @@ p{
   width: 375px;
   height: 305px;
   display: inline-block;
+  box-shadow: 4px 4px 4px #d6dce0;
 }
